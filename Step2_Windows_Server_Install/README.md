@@ -9,6 +9,6 @@ In this step, I installed Windows Server 2022 Datacenter (Desktop Experience) on
 - Completed the Windows installation wizard.
 
 ### Included Screenshots:
-- `Install1.png` – Language and region selection.
-- `Install2.png` – Edition selection screen.
-- `Install3.png` – Disk selection screen.
+- `DC01First.png` – Language and region selection.
+- `DC01Second.png` – Edition selection screen.
+- `DC01Third` – Disk selection screen.
