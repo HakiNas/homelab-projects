@@ -7,7 +7,7 @@ In this step, I configured a **static IP address** and renamed the server to `DC
   - **IPv4 Address:** 192.168.1.10
   - **Subnet Mask:** 255.255.255.0
   - **Default Gateway:** 192.168.1.1
-  - **Preferred DNS Server:** 127.0.0.1
+  - **Preferred DNS Server:** 192.168.1.10
 - Verified the static IP assignment in both:
   - **Control Panel > Network Settings**
   - **Command Prompt using `ipconfig`**
