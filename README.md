@@ -1,6 +1,6 @@
 # 🧠 Homelab Active Directory Domain Project
 
-This is a complete homelab project built on Hyper-V, focused on creating and managing a Windows Server 2019 Active Directory Domain environment. It demonstrates essential skills used in real-world IT help desk and system administration roles.
+This is a complete homelab project built on Hyper-V, focused on creating and managing a Windows Server 2022 Active Directory Domain environment. It demonstrates essential skills used in real-world IT help desk and system administration roles.
 
 ---
 
