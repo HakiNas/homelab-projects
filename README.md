@@ -4,10 +4,10 @@ This is a complete homelab project built on Hyper-V, focused on creating and man
 
 ---
 
-## ✅ Step 1: Create Your First VM in Hyper-V
+## ✅ Step 1: Created First VM in Hyper-V
 - Created a new virtual machine named `DC01`
 - Assigned memory and storage
-- Mounted the Windows Server 2019 ISO
+- Mounted the Windows Server 2022 ISO
 
 📸 *Screenshots:* VM creation wizard and summary before booting.
 
@@ -15,7 +15,7 @@ This is a complete homelab project built on Hyper-V, focused on creating and man
 
 ## ✅ Step 2: Install Windows Server in the VM
 - Booted into the ISO
-- Installed Windows Server 2019 (Desktop Experience)
+- Installed Windows Server 2022 (Desktop Experience)
 - Set administrator password and logged into the GUI
 
 📸 *Screenshots:* Windows setup process and desktop confirmation.
